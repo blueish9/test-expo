@@ -1,0 +1,10 @@
+{
+  "name": "test-expo",
+  "version": "1.0.0",
+  "dependencies": {
+    "expo-constants": "~13.0.2",
+    "@expo/vector-icons": "^12.0.0",
+    "react-native-paper": "4.9.2",
+    "react-native-mint-ui": "0.0.9"
+  }
+}
